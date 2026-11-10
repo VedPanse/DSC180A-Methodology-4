@@ -1,0 +1,8 @@
+title: Ved Panse
+description: DSC 180A Methodology Assignment 4
+theme: jekyll-theme-cayman
+url: https://vedpanse.github.io
+baseurl: /DSC180A-Methodology-4
+exclude:
+  - latex
+  - SUBMISSION.md
